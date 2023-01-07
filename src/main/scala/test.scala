@@ -1,8 +1,9 @@
-// Creating an object
-object GfG {
+package org.example
 
+// Creating an object
+object test {
   // Main method
-  def main(args: Array[String]) {
+  def main(args: Array[String]): Unit = {
 
     // Applying console with println
     Console.println("1")
